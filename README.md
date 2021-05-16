@@ -3,7 +3,7 @@
 <h3>How to run?</h3>
 1. Open browser in your android device.<br>
 2. Click on search bar
-<center><img src="a.jpg"></center>
+<center><img src="a.jpg" style="border: 2px solid green; border-radius: 10px"></center>
 3. Paste the code from below.<br>
 <h4>Offline Version</h4>
 <code>
@@ -11,4 +11,4 @@
 </code>
 <h4>Online version</h4>
 4. There you go
-<center><img src="b.jpg"></center>
+<center><img src="b.jpg" style="border: 2px solid green; border-radius: 10px"></center>
