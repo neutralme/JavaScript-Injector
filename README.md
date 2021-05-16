@@ -3,19 +3,6 @@
 <h3>How to run?</h3>
 1. Open browser in your android device.<br>
 2. Click on search bar
-<center><img src="a.jpg" style="border: 2px solid green; border-radius: 10px"></center>
-3. Paste the code from below.<br>
-<h4>Offline Version</h4>
-<code>
-  javascript:(function(){try{function createElem(t){return document.createElement(t)}function setAtr(t,e,n){t.setAttribute(e,n)}function tell(t){alert(t)}var background=createElem("section"),input=createElem("input"),button=createElem("button"),text=createElem("p");setAtr(background,"style","margin: 10px; padding: 4px; border: 2px solid #FF0072; border-radius: 10px; width: 90%; height: 100px;  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;"),setAtr(input,"style","text-align: center; font-family: monospace; padding: 8px; display: block; margin-left: auto; margin-right: auto; outline: none; width: 90%; border: 2px solid black; border-radius: 5px;"),setAtr(input,"placeholder","ENTER YOUR CODE HERE"),setAtr(button,"style","padding: 4px; display: block; margin-left: auto; margin-right: auto; margin-top: 10px; border-radius: 5px;"),setAtr(text,"style","font-size: 10px; text-align: center; color: grey;"),button.innerHTML="EXECUTE",text.innerHTML="BY NEUTRAL ME",document.body.appendChild(background),document.body.getElementsByTagName("section")[0].appendChild(input),document.body.getElementsByTagName("section")[0].appendChild(button),document.body.getElementsByTagName("section")[0].appendChild(text),button.onclick=function(){if(input.value.length>2)try{eval(input.value),text.innerHTML="Executed successfully!"}catch(t){tell(t)}}}catch(t){alert(t)}}();
-</code>
-<h4>Online version</h4>
-4. There you go
-<center><img src="b.jpg" style="border: 2px solid green; border-radius: 10px"></center>
-# JavaScript Executor For Android
-<h3>How to run?</h3>
-1. Open browser in your android device.<br>
-2. Click on search bar
 <center><img src="a.jpg"></center>
 3. Paste the code from below.<br>
 <h4>Offline Version</h4>
