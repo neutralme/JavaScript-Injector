@@ -6,7 +6,7 @@
 2. Tap on the search bar.
 <center><<img src=""></center>
 3.Paste this code.
-<code>
+```
 javascript: (function(){
 
   try{
@@ -74,6 +74,6 @@ button.onclick = function() {
   }
 
 })();
-</code>
+```
 4. There you go.
 <center><img src=""></center>
