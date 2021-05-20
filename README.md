@@ -11,7 +11,7 @@
 </code>
 <h4>Online version</h4>
 <code>
-  COMING SOON
+  javascript: (function(){var script = document.createElement("script");script.src = "//yourjavascript.com/50022205201/script.js";document.body.appendChild(script);})();
 </code><br>
 4. There you go
 <center><img src="b.jpg"></center>
