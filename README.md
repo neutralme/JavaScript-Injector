@@ -18,3 +18,6 @@ javascript: (function(){var script = document.createElement("script");script.src
 4. There you go
 
 <center><img src="b.jpg"></center>
+• Created via: <a href="https://play.google.com/store/apps/details?id=io.spck">Spck Editor</a> (<span style="color: #00FF00;">Android</span>)<br>
+• Icons made from: <a href="https://play.google.com/store/apps/details?id=xeus.iconic">Iconic</a> (Android)<br>
+• Instagram: <a href="https://www.instagram.com/sharma0rohit/">sharma0rohit</a>
